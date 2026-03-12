@@ -1,17 +1,17 @@
-# 🛡️ Sentinel-Core: Autonomous AI Security Gateway
+#  Sentinel-Core: Autonomous AI Security Gateway
 **An Intelligent Firewall & ASOC for the Agentic Era**
 
 Sentinel-Core is a production-ready security gateway designed to protect LLM-based applications from emerging threats. Built on **Gemini 2.0 Flash**, it acts as a high-performance security layer that intercepts, analyzes, and mitigates threats in real-time.
 
 ---
 
-## 📺 Project Demo
+## Project Demo
 [**Click here to watch the 2-Minute Walkthrough on YouTube**](YOUR_YOUTUBE_LINK_HERE)
 *Note: This video showcases the live autonomous mitigation and Gemini-powered reasoning in action.*
 
 ---
 
-## 🚀 Key Features
+## Key Features
 * **Autonomous Threat Mitigation:** Executes system-level actions (IP Blocking, Server Isolation) based on high-confidence Gemini analysis.
 * **Multimodal Security Audit:** Cross-references live dashboard visuals with backend logs to detect "Ghost Attacks."
 * **Chain of Thought (CoT) Reasoning:** Provides a real-time "Reasoning Window" for security analysts to understand exactly *why* a request was flagged.
@@ -20,12 +20,12 @@ Sentinel-Core is a production-ready security gateway designed to protect LLM-bas
 
 ---
 
-## 🧠 Powered by Gemini API
+## Powered by Gemini API
 Sentinel-Core leverages the **Gemini 2.0 Flash** model for its extreme speed and multimodal capabilities. The system is architected to utilize the **Free Tier** for rapid prototyping while remaining "Enterprise Ready" for Vertex AI deployment.
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 ```text
 sentinel-core/
 ├── backend-ai/           # FastAPI Security Service
@@ -37,7 +37,7 @@ sentinel-core/
 │   └── package.json      # Node.js Dependencies
 └── README.md             # Project Master Documentation
 
-📦 Installation & Setup
+Installation & Setup
 1. Backend Setup
 cd backend-ai
 python -m venv venv
@@ -51,9 +51,9 @@ cd frontend
 npm install
 npm run dev
 
-📊 Dashboard Insight
+Dashboard Insight
 Our central dashboard tracks 14,000+ threats with real-time distribution across Injections, PII Leaks, and Toxicity.
-🛡️ Disclaimer
+Disclaimer
 Developed for the Gemini API Developer Competition 2026. This project showcases the power of autonomous AI in cybersecurity. Always ensure production-grade encryption is used alongside Sentinel-Core for enterprise data.
 
 ---
