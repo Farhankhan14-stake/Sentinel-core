@@ -1,0 +1,16 @@
+# environment
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# node
+node_modules
+dist
+
+# databases
+*.db
+
+# logs
+logs
