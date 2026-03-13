@@ -6,7 +6,7 @@ Sentinel-Core is a production-ready security gateway designed to protect LLM-bas
 ---
 
 ## Project Demo
-[https://youtube.com/watch?v=Smoazm87aEE&si=oO_oi24Mp9i3gUFw](YOUR_YOUTUBE_LINK_HERE)
+[(https://youtube.com/watch?v=Smoazm87aEE&si=oO_oi24Mp9i3gUFw](YOUR_YOUTUBE_LINK_HERE)]
 *Note: This video showcases the live autonomous mitigation and Gemini-powered reasoning in action.*
 
 ---
